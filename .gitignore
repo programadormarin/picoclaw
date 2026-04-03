@@ -17,6 +17,7 @@ cmd/**/workspace
 # PicoClaw
 .picoclaw/
 config.json
+docker/data/workspace/*
 sessions/
 build/
 

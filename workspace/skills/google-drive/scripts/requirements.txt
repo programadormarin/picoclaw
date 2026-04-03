@@ -1,0 +1,19 @@
+# Google Drive Skill - Python Dependencies
+# Install with: pip install -r requirements.txt
+
+# Google API Client Library (official)
+google-api-python-client>=2.100.0,<3.0.0
+
+# Google Authentication Library
+google-auth>=2.23.0,<3.0.0
+google-auth-oauthlib>=1.1.0,<2.0.0
+google-auth-httplib2>=0.1.1,<1.0.0
+
+# HTTP Library (required by google-api-python-client)
+httplib2>=0.22.0,<1.0.0
+
+# OAuth2 Library
+oauthlib>=3.2.0,<4.0.0
+
+# Request Library (required by google-auth)
+requests>=2.31.0,<3.0.0
